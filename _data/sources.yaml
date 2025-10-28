@@ -10,9 +10,35 @@
 - id: doi:10.1158/0008-5472.CAN-16-2724
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/77/4/2/m_canres_77_4_cover.png
 
- - id: doi:10.3389/fimmu.2022.992743
+- id: doi:10.3389/fimmu.2022.992743
   image: images/2022FrontiersImmunarticle.png
 
+- id: doi:10.1016/j.focus.2025.100373
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2773065425X20034-cov200h.gif
+
+- id: doi:10.21203/rs.3.rs-3946910/v1
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13287?as=webp
+
+- id: doi:10.1002/mp.16364
+  image: https://aapm.onlinelibrary.wiley.com/cms/asset/5e40ffa9-8b13-47e8-8bd7-70e959eabf88/mp.v50.7.cover.jpg
+
+- id: doi:10.3389/fonc.2022.920867
+  image: images/2022FrontiersOncarticle.png
+
+- id: doi:10.1177/23821205211073092
+  image: images/2022JMedEdarticle.png
+
+- id: doi:10.1016/j.radonc.2024.110404
+  image: https://www.thegreenjournal.com/cms/asset/c702f18d-0109-4842-8a6e-a4af3067eda4/cov200h.gif
+
+- id: doi:10.1016/j.ijrobp.2018.10.007
+  image: images/2019IJROBPcover.jpg
+
+- id: doi:10.1001/jamaoncol.2018.4292
+  image: images/2018JAMAoncarticle.png
+
+- id: 10.1016/j.radonc.2025.110744
+  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper

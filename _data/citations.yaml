@@ -1,24 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.3389/facou.2025.1616297
-  title: Enhancing tumoricidal effects of radiation therapy with low-intensity focused
-    ultrasound in murine breast cancers
-  authors:
-  - Michelle Marie Schumacher
-  - Claudia Gutierrez Chavez
-  - Beata Malachowska
-  - Sanjay Pandey
-  - Tatyana Tchaikovskaya
-  - Saurabh Singh
-  - Steve Barry
-  - Rodney Macedo
-  - Chandan Guha
-  publisher: Frontiers in Acoustics
-  date: '2025-09-02'
-  link: https://doi.org/g92p48
-  orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.focus.2025.100373
   title: Understanding Vaccine Disparities in the Bronx, New York, Through a Mixed
     Methods Analysis of Community and Provider Perspectives
@@ -40,8 +21,9 @@
   date: '2025-08-01'
   link: https://doi.org/g976xb
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2773065425X20034-cov200h.gif
 - id: doi:10.1101/2024.07.08.602528
   title: FLASH proton reirradiation, with or without hypofractionation, mitigates
     chronic toxicity in the normal murine intestine, skin, and bone
@@ -128,8 +110,9 @@
   date: '2025-02-01'
   link: https://doi.org/g3c98g
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360301624X00164-cov200h.gif
 - id: doi:10.21203/rs.3.rs-3946910/v1
   title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
     to mitigate acute radiation syndrome
@@ -150,8 +133,9 @@
   date: '2024-02-19'
   link: https://doi.org/gtkh5g
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13287?as=webp
 - title: Radiobiological Investigations of Orthovoltage X-Rays, FLASH Proton Therapy,
     and Carbon Ion Radiotherapy
   publisher: Albert Einstein College of Medicine
@@ -194,8 +178,9 @@
   date: '2024-09-01'
   link: https://doi.org/gt3twh
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.thegreenjournal.com/cms/asset/c702f18d-0109-4842-8a6e-a4af3067eda4/cov200h.gif
 - id: doi:10.1002/mp.16364
   title: Commissioning a 250 MeV research beamline for proton FLASH radiotherapy preclinical
     experiments
@@ -223,8 +208,9 @@
   date: '2023-03-29'
   link: https://doi.org/gtrd78
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aapm.onlinelibrary.wiley.com/cms/asset/5e40ffa9-8b13-47e8-8bd7-70e959eabf88/mp.v50.7.cover.jpg
 - id: doi:10.48550/arXiv.2312.07688
   title: 'Radiosensitization beyond DNA damage: Monte Carlo simulations of realistic
     nanomaterial biodistributions'
@@ -251,8 +237,9 @@
   date: '2022-10-12'
   link: https://doi.org/grbzg5
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2022FrontiersOncarticle.png
 - id: doi:10.3389/fimmu.2022.992743
   title: 'Immune responses in COVID-19 and tuberculosis coinfection: A scoping review'
   authors:
@@ -268,8 +255,9 @@
   date: '2022-08-26'
   link: https://doi.org/gtrd79
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2022FrontiersImmunarticle.png
 - id: doi:10.1158/0008-5472.CAN-22-0656
   title: "Orthovoltage X-Rays Exhibit Increased Efficacy Compared with \u03B3-Rays\
     \ in Preclinical Irradiation"
@@ -299,8 +287,9 @@
   date: '2022-08-03'
   link: https://doi.org/gtkh53
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/82/15/2/m_canres_82_15_cover.png
 - id: doi:10.1158/1538-7445.am2022-1319
   title: 'Abstract 1319: Complement activation in pancreatic ductal adenocarcinoma'
   authors:
@@ -355,8 +344,9 @@
   date: '2022-06-01'
   link: https://doi.org/gp9cgq
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41556/24/6
 - id: doi:10.1177/23821205211073092
   title: Rapid Mobilization of Medical Student Volunteers to Administer Vaccines During
     the COVID-19 Pandemic
@@ -373,8 +363,9 @@
   date: '2022-01-01'
   link: https://doi.org/gtrd8c
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2022JMedEdarticle.png
 - id: doi:10.1016/j.ijrobp.2018.10.007
   title: Interleukin 6 Signaling Blockade Exacerbates Acute and Late Injury From Focal
     Intestinal Irradiation
@@ -391,8 +382,9 @@
   date: '2019-03-01'
   link: https://doi.org/ggzzhg
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2019IJROBPcover.jpg
 - title: Acute and late effects of focal irradiation of the intestine using a novel
     volume-scaled mouse model
   publisher: University of Pennsylvania
@@ -419,8 +411,9 @@
   date: '2018-12-01'
   link: https://doi.org/gnvwpv
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2018JAMAoncarticle.png
 - id: doi:10.1158/0008-5472.CAN-16-2724
   title: A Novel Mouse Model to Study Image-Guided, Radiation-Induced Intestinal Injury
     and Preclinical Screening of Radioprotectors
@@ -435,5 +428,39 @@
   date: '2017-02-14'
   link: https://doi.org/f9ts4w
   orcid: 0000-0002-8439-1402
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/77/4/2/m_canres_77_4_cover.png
+- id: 10.1016/j.radonc.2025.110744
+  title: FLASH proton reirradiation, with or without hypofractionation, reduces chronic
+    toxicity in the normal murine intestine, skin, and bone
+  authors:
+  - Ioannis I. Verginadis
+  - Anastasia Velalopoulou
+  - Michele M. Kim
+  - Kyle Kim
+  - Ioannis Paraskevaidis
+  - Brett Bell
+  - Seyyedeh Azar Oliaei Motlagh
+  - Antoneta Karaj
+  - Esha Banerjee
+  - Giovanni Finesso
+  - Charles-Antoine Assenmacher
+  - Enrico Radaelli
+  - Jiawei Lu
+  - Yuewei Lin
+  - Mary E. Putt
+  - Eric S. Diffenderfer
+  - Chandan Guha
+  - Ling Qin
+  - James M. Metz
+  - Amit Maity
+  - Keith A. Cengel
+  - Constantinos Koumenis
+  - Theresa M. Busch
+  publisher: Radiotherapy and Oncology
+  date: '2025-04-01'
+  link: https://doi.org/g9rx8q
+  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
+  plugin: sources.py
+  file: sources.yaml
