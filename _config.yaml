@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: BrettIBell
+title: Brett I. Bell
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@BrettIBell.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: brett.bell@einsteinmed.edu 
+  orcid: 0000-0002-8439-1402
+  google-scholar: -TvMtLMAAAAJ
+  linkedin: brettibell
+  twitter: Brett_I_Bell
   github: BrettIBell
-  twitter: BrettIBell
-  youtube: BrettIBell
 
 ### jekyll settings
 

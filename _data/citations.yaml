@@ -1,264 +1,439 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3389/facou.2025.1616297
+  title: Enhancing tumoricidal effects of radiation therapy with low-intensity focused
+    ultrasound in murine breast cancers
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Michelle Marie Schumacher
+  - Claudia Gutierrez Chavez
+  - Beata Malachowska
+  - Sanjay Pandey
+  - Tatyana Tchaikovskaya
+  - Saurabh Singh
+  - Steve Barry
+  - Rodney Macedo
+  - Chandan Guha
+  publisher: Frontiers in Acoustics
+  date: '2025-09-02'
+  link: https://doi.org/g92p48
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.focus.2025.100373
+  title: Understanding Vaccine Disparities in the Bronx, New York, Through a Mixed
+    Methods Analysis of Community and Provider Perspectives
+  authors:
+  - Brett I. Bell
+  - Sarah Hill
+  - Justin Olivera
+  - Valerie Fong
+  - Michelle Schumacher
+  - Madeline Friedman-DeLuca
+  - Tiffany Cheng
+  - Chetali Jain
+  - Tova Niderberg
+  - Taneisha Sinclair
+  - Damara N. Gutnick
+  - Oladimeji A. Oki
+  - Cara Stephenson-Hunter
+  publisher: AJPM Focus
+  date: '2025-08-01'
+  link: https://doi.org/g976xb
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.07.08.602528
+  title: FLASH proton reirradiation, with or without hypofractionation, mitigates
+    chronic toxicity in the normal murine intestine, skin, and bone
+  authors:
+  - Ioannis I. Verginadis
+  - Anastasia Velalopoulou
+  - Michele M. Kim
+  - Kyle Kim
+  - Ioannis Paraskevaidis
+  - Brett Bell
+  - Seyyedeh Azar Oliaei Motlagh
+  - Antoneta Karaj
+  - Esha Banerjee
+  - Giovanni Finesso
+  - Charles-Antoine Assenmacher
+  - Enrico Radaelli
+  - Jiawei Lu
+  - Yuewei Lin
+  - Mary E. Putt
+  - Eric S. Diffenderfer
+  - Chandan Guha
+  - Ling Qin
+  - James M. Metz
+  - Amit Maity
+  - Keith A. Cengel
+  - Constantinos Koumenis
+  - Theresa M. Busch
   publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2024-07-11'
+  link: https://doi.org/gt5kc4
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2025.04.11.647869
+  title: Loss of CARM1 alters the developmental programming of Glioma stem-like cells
+    and creates a druggable NGFR/NTRK dependency
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Dejauwne L. Young
+  - Jennifer Aguilan
+  - Ronald Cutler
+  - Stephanie Stransky
+  - Joseph D. DeAngelo
+  - Jacob S. Roth
+  - Beata Malachowska
+  - Justin Vercellino
+  - Brett I. Bell
+  - David Shechter
+  - Philip J. Tofilon
+  - Richard E. Phillips
+  - Chandan Guha
+  - Simone Sidoli
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2025-04-17'
+  link: https://doi.org/g9gf67
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.ijrobp.2024.09.006
+  title: Whole Abdominal Pencil Beam Scanned Proton FLASH Increases Acute Lethality
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Brett I. Bell
+  - Christian Velten
+  - Michael Pennock
+  - Minglei Kang
+  - Kathryn E. Tanaka
+  - Balaji Selvaraj
+  - Alexander Bookbinder
+  - Wade Koba
+  - Justin Vercellino
+  - Jeb English
+  - "Beata Ma\u0142achowska"
+  - Sanjay Pandey
+  - Phaneendra K. Duddempudi
+  - Yunjie Yang
+  - Shahin Shajahan
+  - Shaakir Hasan
+  - J. Isabelle Choi
+  - Charles B. Simone
+  - Weng-Lang Yang
+  - "Wolfgang A. Tom\xE9"
+  - Haibo Lin
+  - Chandan Guha
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2025-02-01'
+  link: https://doi.org/g3c98g
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.21203/rs.3.rs-3946910/v1
+  title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
+    to mitigate acute radiation syndrome
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Justin Vercellino
+  - "Beata Ma\u0142achowska"
+  - Shilpa Kulkarni
+  - Brett I. Bell
+  - Shahin Shajahan
+  - Kosaku Shinoda
+  - Gary Eichenbaum
+  - Amit K. Verma
+  - Sanchita P. Ghosh
+  - Weng-Lang Yang
+  - Paul S. Frenette
+  - Chandan Guha
+  publisher: Springer Science and Business Media LLC
+  date: '2024-02-19'
+  link: https://doi.org/gtkh5g
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+- title: Radiobiological Investigations of Orthovoltage X-Rays, FLASH Proton Therapy,
+    and Carbon Ion Radiotherapy
+  publisher: Albert Einstein College of Medicine
+  date: '2024-07-18'
+  link: https://www.proquest.com/docview/3055799749
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/bs.ircmb.2024.02.003
+  title: Role of chemokine receptors in gastrointestinal mucosa
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Brett Bell
+  - Kevin Flores-Lovon
+  - "Luis A. Cueva-Chica\xF1a"
+  - Rodney Macedo
+  publisher: International Review of Cell and Molecular Biology
+  date: '2024-01-01'
+  link: https://doi.org/g976xc
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.radonc.2024.110404
+  title: Validation and reproducibility of in vivo dosimetry for pencil beam scanned
+    FLASH proton treatment in mice
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Alex Bookbinder
+  - Balaji Selvaraj
+  - Xingyi Zhao
+  - Yunjie Yang
+  - Brett I. Bell
+  - Michael Pennock
+  - Pingfang Tsai
+  - "Wolfgang A. Tom\xE9"
+  - J. Isabelle Choi
+  - Haibo Lin
+  - Charles B. Simone
+  - Chandan Guha
+  - Minglei Kang
+  publisher: Radiotherapy and Oncology
+  date: '2024-09-01'
+  link: https://doi.org/gt3twh
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1002/mp.16364
+  title: Commissioning a 250 MeV research beamline for proton FLASH radiotherapy preclinical
+    experiments
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Yunjie Yang
+  - Minglei Kang
+  - "Chin\u2010Cheng Chen"
+  - Lei Hu
+  - Francis Yu
+  - Pingfang Tsai
+  - Sheng Huang
+  - Jiayi Liu
+  - Ryan Turner
+  - Brian Shen
+  - Shaakir Hasan
+  - Arpit M. Chhabra
+  - J Isabelle Choi
+  - Brett Bell
+  - Michael Pennock
+  - Wolfgang A. Tome
+  - Chanda Guha
+  - Charles B. Simone
+  - Haibo Lin
+  publisher: Medical Physics
+  date: '2023-03-29'
+  link: https://doi.org/gtrd78
+  orcid: 0000-0002-8439-1402
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.48550/arXiv.2312.07688
+  title: 'Radiosensitization beyond DNA damage: Monte Carlo simulations of realistic
+    nanomaterial biodistributions'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Christian Velten
+  - Brett Bell
+  - "Wolfgang A. Tom\xE9"
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g976xd
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fonc.2022.920867
+  title: 'Preclinical models of radiation-induced cardiac toxicity: Potential mechanisms
+    and biomarkers'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Alexandra D. Dreyfuss
+  - Anastasia Velalopoulou
+  - Harris Avgousti
+  - Brett I. Bell
+  - Ioannis I. Verginadis
+  publisher: Frontiers in Oncology
+  date: '2022-10-12'
+  link: https://doi.org/grbzg5
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2022.992743
+  title: 'Immune responses in COVID-19 and tuberculosis coinfection: A scoping review'
+  authors:
+  - Kevin Flores-Lovon
+  - Brando Ortiz-Saavedra
+  - "Luis A. Cueva-Chica\xF1a"
+  - Shalom Aperrigue-Lira
+  - Elizbet S. Montes-Madariaga
+  - David R. Soriano-Moreno
+  - Brett Bell
+  - Rodney Macedo
+  publisher: Frontiers in Immunology
+  date: '2022-08-26'
+  link: https://doi.org/gtrd79
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-22-0656
+  title: "Orthovoltage X-Rays Exhibit Increased Efficacy Compared with \u03B3-Rays\
+    \ in Preclinical Irradiation"
+  authors:
+  - Brett I. Bell
+  - Justin Vercellino
+  - N. Patrik Brodin
+  - Christian Velten
+  - Lalitha S.Y. Nanduri
+  - Prashanth K.B. Nagesh
+  - Kathryn E. Tanaka
+  - Yanan Fang
+  - Yanhua Wang
+  - Rodney Macedo
+  - Jeb English
+  - Michelle M. Schumacher
+  - Phaneendra K. Duddempudi
+  - Patrik Asp
+  - Wade Koba
+  - Shahin Shajahan
+  - Laibin Liu
+  - "Wolfgang A. Tom\xE9"
+  - Weng-Lang Yang
+  - Richard Kolesnick
+  - Chandan Guha
+  publisher: Cancer Research
+  date: '2022-08-03'
+  link: https://doi.org/gtkh53
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.am2022-1319
+  title: 'Abstract 1319: Complement activation in pancreatic ductal adenocarcinoma'
+  authors:
+  - Brett I. Bell
+  - Sanjay Pandey
+  - Patrik Asp
+  - Chandan Guha
+  publisher: Cancer Research
+  date: '2022-06-15'
+  link: https://doi.org/gtrd8b
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41556-022-00918-8
+  title: A stromal Integrated Stress Response activates perivascular cancer-associated
+    fibroblasts to drive angiogenesis and tumour progression
+  authors:
+  - Ioannis I. Verginadis
+  - Harris Avgousti
+  - James Monslow
+  - Giorgos Skoufos
+  - Frank Chinga
+  - Kyle Kim
+  - Nektaria Maria Leli
+  - Ilias V. Karagounis
+  - Brett I. Bell
+  - Anastasia Velalopoulou
+  - Carlo Salas Salinas
+  - Victoria S. Wu
+  - Yang Li
+  - Jiangbin Ye
+  - David A. Scott
+  - Andrei L. Osterman
+  - Arjun Sengupta
+  - Aalim Weljie
+  - Menggui Huang
+  - Duo Zhang
+  - Yi Fan
+  - Enrico Radaelli
+  - John W. Tobias
+  - Florian Rambow
+  - Panagiotis Karras
+  - Jean-Christophe Marine
+  - Xiaowei Xu
+  - Artemis G. Hatzigeorgiou
+  - Sandra Ryeom
+  - J. Alan Diehl
+  - Serge Y. Fuchs
+  - "Ellen Pur\xE9"
+  - Constantinos Koumenis
+  publisher: Nature Cell Biology
+  date: '2022-06-01'
+  link: https://doi.org/gp9cgq
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/23821205211073092
+  title: Rapid Mobilization of Medical Student Volunteers to Administer Vaccines During
+    the COVID-19 Pandemic
+  authors:
+  - Taneisha Sinclair
+  - Brett I. Bell
+  - Karol Perez
+  - Daniel Klyde
+  - Mitchell Veith
+  - Rachel Weinstock
+  - Todd Cassese
+  - Joshua D. Nosanchuk
+  publisher: Journal of Medical Education and Curricular Development
+  date: '2022-01-01'
+  link: https://doi.org/gtrd8c
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2018.10.007
+  title: Interleukin 6 Signaling Blockade Exacerbates Acute and Late Injury From Focal
+    Intestinal Irradiation
+  authors:
+  - Brett I. Bell
+  - Sravya Koduri
+  - Carlo Salas Salinas
+  - James Monslow
+  - "Ellen Pur\xE9"
+  - Edgar Ben-Josef
+  - Constantinos Koumenis
+  - Ioannis I. Verginadis
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2019-03-01'
+  link: https://doi.org/ggzzhg
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Acute and late effects of focal irradiation of the intestine using a novel
+    volume-scaled mouse model
+  publisher: University of Pennsylvania
+  date: '2022-06-20'
+  link: https://franklin.library.upenn.edu/catalog/FRANKLIN_9977343949003681
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/jamaoncol.2018.4292
+  title: Assessing the Validity of Clinician Advice That Patients Avoid Use of Topical
+    Agents Before Daily Radiotherapy Treatments
+  authors:
+  - Brian C. Baumann
+  - Ioannis I. Verginadis
+  - Chuan Zeng
+  - Brett Bell
+  - Sravya Koduri
+  - Carolyn Vachani
+  - Kelly M. MacArthur
+  - Timothy D. Solberg
+  - Constantinos Koumenis
+  - James M. Metz
+  publisher: JAMA Oncology
+  date: '2018-12-01'
+  link: https://doi.org/gnvwpv
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-16-2724
+  title: A Novel Mouse Model to Study Image-Guided, Radiation-Induced Intestinal Injury
+    and Preclinical Screening of Radioprotectors
+  authors:
+  - Ioannis I. Verginadis
+  - Rahul Kanade
+  - Brett Bell
+  - Sravya Koduri
+  - Edgar Ben-Josef
+  - Constantinos Koumenis
+  publisher: Cancer Research
+  date: '2017-02-14'
+  link: https://doi.org/f9ts4w
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
