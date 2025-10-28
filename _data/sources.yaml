@@ -40,6 +40,12 @@
 - id: 10.1016/j.radonc.2025.110744
   image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
 
+- id: doi:10.1016/j.ijrobp.2025.06.2566
+  image: https://www.redjournal.org/cms/asset/5eed45c7-037f-4aa7-8388-88f5a5cbd2b3/cov200h.gif
+
+- id: doi:10.1016/j.ijrobp.2024.07.2303
+  image: https://www.redjournal.org/cms/asset/0425cee8-20cd-45d7-a1f4-3e05bdc8db9a/cov200h.gif
+
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
 #   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
