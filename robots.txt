@@ -1,1 +1,1 @@
-Sitemap: http://brettbell.com/BrettBell/sitemap.xml
+Sitemap: https://brettbell.com/sitemap.xml
