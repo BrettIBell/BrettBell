@@ -28,8 +28,8 @@
 - id: doi:10.1177/23821205211073092
   image: images/2022JMedEdarticle.png
 
-- id: doi:10.1016/j.radonc.2024.110404
-  image: https://www.thegreenjournal.com/cms/asset/c702f18d-0109-4842-8a6e-a4af3067eda4/cov200h.gif
+- id: doi:10.1016/j.radonc.2025.110744
+  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
 
 - id: doi:10.1016/j.ijrobp.2018.10.007
   image: images/2019IJROBPcover.jpg
@@ -37,14 +37,17 @@
 - id: doi:10.1001/jamaoncol.2018.4292
   image: images/2018JAMAoncarticle.png
 
-- id: 10.1016/j.radonc.2025.110744
-  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
-
 - id: doi:10.1016/j.ijrobp.2025.06.2566
   image: https://www.redjournal.org/cms/asset/5eed45c7-037f-4aa7-8388-88f5a5cbd2b3/cov200h.gif
 
 - id: doi:10.1016/j.ijrobp.2024.07.2303
   image: https://www.redjournal.org/cms/asset/0425cee8-20cd-45d7-a1f4-3e05bdc8db9a/cov200h.gif
+
+- id: doi:10.1016/j.radonc.2024.110404
+  image: https://www.thegreenjournal.com/cms/asset/c702f18d-0109-4842-8a6e-a4af3067eda4/cov200h.gif
+
+- id: doi:10.1101/2024.07.08.602528
+  remove: true
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
