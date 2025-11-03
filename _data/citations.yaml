@@ -47,40 +47,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2773065425X20034-cov200h.gif
-- id: doi:10.1016/j.radonc.2025.110744
-  title: FLASH proton reirradiation, with or without hypofractionation, reduces chronic
-    toxicity in the normal murine intestine, skin, and bone
-  authors:
-  - Ioannis I. Verginadis
-  - Anastasia Velalopoulou
-  - Michele M. Kim
-  - Kyle Kim
-  - Ioannis Paraskevaidis
-  - Brett Bell
-  - Seyyedeh Azar Oliaei Motlagh
-  - Antoneta Karaj
-  - Esha Banerjee
-  - Giovanni Finesso
-  - Charles-Antoine Assenmacher
-  - Enrico Radaelli
-  - Jiawei Lu
-  - Yuewei Lin
-  - Mary E. Putt
-  - Eric S. Diffenderfer
-  - Chandan Guha
-  - Ling Qin
-  - James M. Metz
-  - Amit Maity
-  - Keith A. Cengel
-  - Constantinos Koumenis
-  - Theresa M. Busch
-  publisher: Radiotherapy and Oncology
-  date: '2025-04-01'
-  link: https://doi.org/g9rx8q
-  orcid: 0000-0002-8439-1402
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
 - id: doi:10.1101/2025.04.11.647869
   title: Loss of CARM1 alters the developmental programming of Glioma stem-like cells
     and creates a druggable NGFR/NTRK dependency
@@ -137,6 +103,40 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0360301624X00164-cov200h.gif
+- id: doi:10.1016/j.radonc.2025.110744
+  title: FLASH proton reirradiation, with or without hypofractionation, reduces chronic
+    toxicity in the normal murine intestine, skin, and bone
+  authors:
+  - Ioannis I. Verginadis
+  - Anastasia Velalopoulou
+  - Michele M. Kim
+  - Kyle Kim
+  - Ioannis Paraskevaidis
+  - Brett Bell
+  - Seyyedeh Azar Oliaei Motlagh
+  - Antoneta Karaj
+  - Esha Banerjee
+  - Giovanni Finesso
+  - Charles-Antoine Assenmacher
+  - Enrico Radaelli
+  - Jiawei Lu
+  - Yuewei Lin
+  - Mary E. Putt
+  - Eric S. Diffenderfer
+  - Chandan Guha
+  - Ling Qin
+  - James M. Metz
+  - Amit Maity
+  - Keith A. Cengel
+  - Constantinos Koumenis
+  - Theresa M. Busch
+  publisher: Radiotherapy and Oncology
+  date: '2025-04-01'
+  link: https://doi.org/g9rx8q
+  orcid: 0000-0002-8439-1402
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
 - id: doi:10.1016/j.ijrobp.2024.07.2303
   title: Immunological Effectiveness of Carbon Ion Radiotherapy in Pancreatic Cancer
   authors:
